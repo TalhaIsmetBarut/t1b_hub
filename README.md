@@ -1,4 +1,4 @@
-# 🛡️ lab.t1b.com.tr (t1b_hub)
+# 🛡️ lab.t1b.com.tr (T1B_hub)
 
 **"My Personal Laboratory"**
 
@@ -36,10 +36,6 @@ This project utilizes modern web technologies focusing on performance and securi
 <div align="center">
 
 Developed by <strong>T1B</strong>
-
-<br>
-
-[**🌐 Live**](https://lab.t1b.com.tr)
 
 <br>
 
