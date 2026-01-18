@@ -35,8 +35,6 @@ This project utilizes modern web technologies focusing on performance and securi
 ---
 <div align="center">
 
-# T1B_HUB
-
 Developed by <strong>T1B</strong>
 
 <br>
