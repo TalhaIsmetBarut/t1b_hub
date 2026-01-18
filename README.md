@@ -34,5 +34,18 @@ This project utilizes modern web technologies focusing on performance and securi
 
 ---
 <div align="center">
-  Developed by <strong>Mr.T1B</strong>
+
+# 📟 CMD-PANEL
+
+Developed by <strong>T1B</strong>
+
+<br>
+
+[**🌐 Live**](https://lab.t1b.com.tr)
+
+<br>
+
+![Security Headers](https://img.shields.io/badge/Security%20Headers-A%2B-success?style=for-the-badge&logo=security-scorecard)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
+
 </div>
