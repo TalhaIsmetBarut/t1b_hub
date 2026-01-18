@@ -16,6 +16,13 @@ This website is not just a portfolio; it is developed with a **"security-first"*
 * **Minimalist & Responsive Design:** A clean, fast, and distraction-free interface that works seamlessly on all devices.
 * **Centralized Hub:** A unified entry point connecting all my digital assets and social platforms.
 
+## 🕵️‍♂️ Classified Access (Easter Egg)
+
+**Are you curious enough?**
+The site listens for a specific signal. Rumor has it that if you type **"t1b"** on your keyboard while browsing the main page, a hidden interface reveals itself. 
+
+*What lies behind the secret window? Give it a try and find out.*
+
 ## 🛠️ Technologies Used
 
 This project utilizes modern web technologies focusing on performance and security:
@@ -23,6 +30,7 @@ This project utilizes modern web technologies focusing on performance and securi
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Hosting & Deployment:** Vercel
 * **Utilities:** Python (includes `extract_turkey_coords.py` for data processing)
+
 
 ---
 <div align="center">
